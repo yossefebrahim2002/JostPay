@@ -9,7 +9,7 @@
         "explorer": "https://polygonscan.com/token/0x0000000000000000000000000000000000001010",
         "id": "0x0000000000000000000000000000000000001010",
         "research": "https://docs.matic.network/",
-        "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/Polygon.png",       
+        "logo": "https://github.com/mohh152/Crypto/blob/main/MATIC.png",       
         "type": "coin",
         "symbol": "MATIC",
         "decimals": 18,
@@ -39,7 +39,7 @@
         "description": "Open source platform to write and distribute decentralized applications.",
         "explorer": "https://bscscan.com/",
         "research": "https://research.binance.com/en/projects/ethereum",
-        "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/BTC.png",
+        "logo": "https://github.com/mohh152/Crypto/blob/main/BNB.png",
         "symbol": "BNB",
         "type": "coin",
         "decimals": 18,
@@ -64,40 +64,7 @@
         ]
     },
         
-    {
-        "name": "USD Coin (PoS)",
-        "website": "https://centre.io/usdc",
-        "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
-        "explorer": "https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-        "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/USDC%20PoS.png",
-        "type": "POLYGON",
-        "symbol": "USDC",
-        "decimals": 6,
-        "status": "active",
-        "id": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-        "links": [
-            {
-                "name": "github",
-                "url": "https://github.com/centrehq"
-            },
-            {
-                "name": "medium",
-                "url": "https://medium.com/centre-blog"
-            },
-            {
-                "name": "whitepaper",
-                "url": "https://centre.io/pdfs/centre-whitepaper.pdf"
-            },
-            {
-                "name": "coinmarketcap",
-                "url": "https://coinmarketcap.com/currencies/usd-coin/"
-            },
-            {
-                "name": "coingecko",
-                "url": "https://coingecko.com/en/coins/usd-coin/"
-            }
-        ]
-    },
+
     
     
     {
@@ -105,7 +72,7 @@
         "website": "https://tether.to",
         "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
         "explorer": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
-        "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/USDT%20PoS.png",
+        "logo": "https://github.com/mohh152/Crypto/blob/main/USDT.png",
         "type": "POLYGON",
         "symbol": "USDT",
         "decimals": 6,
@@ -126,102 +93,8 @@
             }
         ]
     },
-    {
-    "name": "Tether ERC20",
-    "website": "https://tether.to",
-    "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
-    "explorer": "https://etherscan.io/token/0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/USDT%20ERC20.png",
-    "type": "Ethereum",
-    "symbol": "USDT",
-    "decimals": 6,
-    "status": "active",
-    "id": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-    "tags": [
-        "stablecoin"
-    ],
-    "links": [
-        {
-            "name": "facebook",
-            "url": "https://facebook.com/tether.to/"
-        },
-        {
-            "name": "twitter",
-            "url": "https://twitter.com/Tether_to/"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/ru/currencies/tether/"
-        }
-    ]
-},
-  {
-    "name": "USD Coin ERC20",
-    "website": "https://centre.io/usdc",
-    "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
-    "explorer": "https://etherscan.io/token/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/USDC%20ERC20.png",
-    "type": "Ethereum",
-    "symbol": "USDC",
-    "decimals": 6,
-    "status": "active",
-    "id": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-    "tags": [
-        "stablecoin"
-    ],
-    "links": [
-        {
-            "name": "github",
-            "url": "https://github.com/centrehq"
-        },
-        {
-            "name": "medium",
-            "url": "https://medium.com/centre-blog"
-        },
-        {
-            "name": "whitepaper",
-            "url": "https://centre.io/pdfs/centre-whitepaper.pdf"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/usd-coin/"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/usd-coin/"
-        }
-    ]
-},
-    {
-        "name": "Solana",
-        "website": "https://solana.com/",
-        "description": "Solana is the worlds most performant blockchain in the world at 710k transactions per second. 710k TPS is achieved by encoding the passage of time as data.",
-        "explorer": "https://solscan.io/",
-        "research": "https://research.binance.com/en/projects/solana",
-        "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/Solana.png",
-        "symbol": "SOL",
-        "type": "coin",
-        "decimals": 9,
-        "status": "active",
-        "links": [
-            {
-                "name": "github",
-                "url": "https://github.com/solana-labs"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/solana"
-            },
-            {
-                "name": "reddit",
-                "url": "https://reddit.com/r/solana"
-            },
-            {
-                "name": "whitepaper",
-                "url": "https://github.com/solana-labs/whitepaper"
-            }
-        ]
-    },
+
+   
    
     {
         "name": "Ethereum",
@@ -229,7 +102,7 @@
         "description": "Open source platform to write and distribute decentralized applications.",
         "explorer": "https://etherscan.io/",
         "research": "https://research.binance.com/en/projects/ethereum",
-        "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/ETH.png",
+        "logo": "https://github.com/mohh152/Crypto/blob/main/ETH.png",
         "symbol": "ETH",
         "type": "coin",
         "decimals": 18,
