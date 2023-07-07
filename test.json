@@ -68,7 +68,7 @@
         "name": "USDT BEP20",
         "website": "https://tether.to",
         "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
-        "explorer": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+        "explorer": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955",
         "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/USDT.png",
         "type": "BNB",
         "symbol": "USDT",
@@ -90,7 +90,84 @@
             }
         ]
     },
-    
+  {
+        "name": "Bitcoin Cash",
+        "website": "https://tether.to",
+        "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+        "explorer": "https://bscscan.com/token/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+        "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/BCH.png",
+        "type": "BNB",
+        "symbol": "BCH",
+        "decimals": 18,
+        "status": "active",
+        "id": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+        "links": [
+            {
+                "name": "facebook",
+                "url": "https://facebook.com/tether.to/"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/Tether_to/"
+            },
+            {
+                "name": "coinmarketcap",
+                "url": "https://coinmarketcap.com/ru/currencies/tether/"
+            }
+        ]
+    },
+{
+        "name": "Dogecoin",
+        "website": "https://tether.to",
+        "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+        "explorer": "https://bscscan.com/token/0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/DOGE.png",
+        "type": "BNB",
+        "symbol": "DOGE",
+        "decimals": 18,
+        "status": "active",
+        "id": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+        "links": [
+            {
+                "name": "facebook",
+                "url": "https://facebook.com/tether.to/"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/Tether_to/"
+            },
+            {
+                "name": "coinmarketcap",
+                "url": "https://coinmarketcap.com/ru/currencies/tether/"
+            }
+        ]
+    },
+{
+        "name": "Litecoin",
+        "website": "https://tether.to",
+        "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
+        "explorer": "https://bscscan.com/token/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+        "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/LTC.png",
+        "type": "BNB",
+        "symbol": "LTC",
+        "decimals": 18,
+        "status": "active",
+        "id": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+        "links": [
+            {
+                "name": "facebook",
+                "url": "https://facebook.com/tether.to/"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/Tether_to/"
+            },
+            {
+                "name": "coinmarketcap",
+                "url": "https://coinmarketcap.com/ru/currencies/tether/"
+            }
+        ]
+    },
     
     {
         "name": "(PoS) Tether USD",
