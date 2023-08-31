@@ -1,4 +1,4 @@
-[
+ [
   
     
     {
@@ -64,32 +64,7 @@
         ]
     },
         
-{
-        "name": "USDT BEP20",
-        "website": "https://tether.to",
-        "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
-        "explorer": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955",
-        "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/USDT.png",
-        "type": "BNB",
-        "symbol": "USDT",
-        "decimals": 18,
-        "status": "active",
-        "id": "0x55d398326f99059fF775485246999027B3197955",
-        "links": [
-            {
-                "name": "facebook",
-                "url": "https://facebook.com/tether.to/"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/Tether_to/"
-            },
-            {
-                "name": "coinmarketcap",
-                "url": "https://coinmarketcap.com/ru/currencies/tether/"
-            }
-        ]
-    },
+
 
   {
         "name": "Binance USD",
@@ -197,16 +172,16 @@
     },
     
     {
-        "name": "(PoS) Tether USD",
+        "name": "USDT TRC20",
         "website": "https://tether.to",
         "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar.",
         "explorer": "https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
         "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/USDT.png",
-        "type": "POLYGON",
+        "type": "TRX",
         "symbol": "USDT",
         "decimals": 6,
         "status": "active",
-        "id": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+        "id": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
         "links": [
             {
                 "name": "facebook",
@@ -252,6 +227,60 @@
             {
                 "name": "whitepaper",
                 "url": "https://github.com/ethereum/wiki/wiki/White-Paper"
+            }
+        ]
+    },
+    {
+        "name": "Tron",
+        "website": "https://tron.network/",
+        "short_description": "",
+        "description": "",
+        "explorer": "https://tronscan.org/",
+        "research": "https://docs.tronscan.org/",
+        "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/TRX.png",
+        "type": "coin",
+        "symbol": "TRX",
+        "decimals": 6,
+        "status": "active",
+        "links": [
+            {
+                "name": "github",
+                "url": "https://github.com/tronprotocol"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/trondao"
+            },
+            {
+                "name": "reddit",
+                "url": "https://www.reddit.com/r/Tronix/"
+            }
+        ]
+    },
+{
+        "name": "Bitcoin",
+        "website": "https://tron.network/",
+        "short_description": "",
+        "description": "",
+        "explorer": "https://tronscan.org/",
+        "research": "https://docs.tronscan.org/",
+        "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/BTC.png",
+        "type": "coin",
+        "symbol": "BTC",
+        "decimals": 8,
+        "status": "active",
+        "links": [
+            {
+                "name": "github",
+                "url": "https://github.com/tronprotocol"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/trondao"
+            },
+            {
+                "name": "reddit",
+                "url": "https://www.reddit.com/r/Tronix/"
             }
         ]
     }
