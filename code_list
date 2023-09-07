@@ -39,5 +39,15 @@
         "VFD Microfinance",
         "Wema Bank",
         "Zenith Bank"
+    ],
+  "sell_banks": [
+        "ACCESS BANK",
+        "ECOBANK",
+        "FIRST BANK",
+        "GTBANK",
+        "STANBIC IBTC BANK",
+        "STERLING BANK",
+        "UBA",
+        "UNION BANK"
     ]
 }
