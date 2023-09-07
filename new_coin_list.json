@@ -1,6 +1,89 @@
 
   [
-  
+{
+        "name": "Bitcoin",
+        "website": "https://tron.network/",
+        "short_description": "",
+        "description": "",
+        "explorer": "https://tronscan.org/",
+        "research": "https://docs.tronscan.org/",
+        "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/BTC.png",
+        "type": "coin",
+        "symbol": "BTC",
+        "decimals": 8,
+        "status": "active",
+        "links": [
+            {
+                "name": "github",
+                "url": "https://github.com/tronprotocol"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/trondao"
+            },
+            {
+                "name": "reddit",
+                "url": "https://www.reddit.com/r/Tronix/"
+            }
+        ]
+    },
+    {
+        "name": "Ethereum",
+        "website": "https://ethereum.org/",
+        "description": "Open source platform to write and distribute decentralized applications.",
+        "explorer": "https://etherscan.io/",
+        "research": "https://research.binance.com/en/projects/ethereum",
+        "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/ETH.png",
+        "symbol": "ETH",
+        "type": "coin",
+        "decimals": 18,
+        "status": "active",
+        "links": [
+            {
+                "name": "github",
+                "url": "https://github.com/ethereum"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/ethereum"
+            },
+            {
+                "name": "reddit",
+                "url": "https://reddit.com/r/ethereum"
+            },
+            {
+                "name": "whitepaper",
+                "url": "https://github.com/ethereum/wiki/wiki/White-Paper"
+            }
+        ]
+    },
+    {
+        "name": "Tron",
+        "website": "https://tron.network/",
+        "short_description": "",
+        "description": "",
+        "explorer": "https://tronscan.org/",
+        "research": "https://docs.tronscan.org/",
+        "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/TRX.png",
+        "type": "coin",
+        "symbol": "TRX",
+        "decimals": 6,
+        "status": "active",
+        "links": [
+            {
+                "name": "github",
+                "url": "https://github.com/tronprotocol"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/trondao"
+            },
+            {
+                "name": "reddit",
+                "url": "https://www.reddit.com/r/Tronix/"
+            }
+        ]
+    },
     
     {
         "name": "Polygon",
@@ -120,93 +203,11 @@
                 "url": "https://coinmarketcap.com/ru/currencies/tether/"
             }
         ]
-    },
+    }
 
    
    
-    {
-        "name": "Ethereum",
-        "website": "https://ethereum.org/",
-        "description": "Open source platform to write and distribute decentralized applications.",
-        "explorer": "https://etherscan.io/",
-        "research": "https://research.binance.com/en/projects/ethereum",
-        "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/ETH.png",
-        "symbol": "ETH",
-        "type": "coin",
-        "decimals": 18,
-        "status": "active",
-        "links": [
-            {
-                "name": "github",
-                "url": "https://github.com/ethereum"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/ethereum"
-            },
-            {
-                "name": "reddit",
-                "url": "https://reddit.com/r/ethereum"
-            },
-            {
-                "name": "whitepaper",
-                "url": "https://github.com/ethereum/wiki/wiki/White-Paper"
-            }
-        ]
-    },
-    {
-        "name": "Tron",
-        "website": "https://tron.network/",
-        "short_description": "",
-        "description": "",
-        "explorer": "https://tronscan.org/",
-        "research": "https://docs.tronscan.org/",
-        "logo": "https://raw.githubusercontent.com/ISLAMIBLOCKCHAIN/ISLAMIwallet/main/Coins/Logo/TRX.png",
-        "type": "coin",
-        "symbol": "TRX",
-        "decimals": 6,
-        "status": "active",
-        "links": [
-            {
-                "name": "github",
-                "url": "https://github.com/tronprotocol"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/trondao"
-            },
-            {
-                "name": "reddit",
-                "url": "https://www.reddit.com/r/Tronix/"
-            }
-        ]
-    },
-{
-        "name": "Bitcoin",
-        "website": "https://tron.network/",
-        "short_description": "",
-        "description": "",
-        "explorer": "https://tronscan.org/",
-        "research": "https://docs.tronscan.org/",
-        "logo": "https://raw.githubusercontent.com/mohh152/Crypto/main/BTC.png",
-        "type": "coin",
-        "symbol": "BTC",
-        "decimals": 8,
-        "status": "active",
-        "links": [
-            {
-                "name": "github",
-                "url": "https://github.com/tronprotocol"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/trondao"
-            },
-            {
-                "name": "reddit",
-                "url": "https://www.reddit.com/r/Tronix/"
-            }
-        ]
-    }
+  
+
 
     ]
